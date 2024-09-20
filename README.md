@@ -1,5 +1,6 @@
 
 # Hello, I'm Oliver Velozo 👋
+I'm a project manager and Business analyst
 
 ![Oliverzera GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliverzera&show_icons=true&theme=dracula)
 

@@ -1,4 +1,3 @@
-
 # Hello, I'm Oliver Velozo 👋
 I'm a Product Owner and Business Analyst
 
